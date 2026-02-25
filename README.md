@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babi21&label=Profile%20views&color=0e75b6&style=flat" alt="babi21" /> </p>
 
-- 🔭 I’m currently working on [At Ease Travel & Tours - IT Support Technician](https://www.facebook.com/ateasetravel.tours)
+- 🔭 I’m currently working on [At Ease Travel & Tours - IT Support Specialist](https://www.facebook.com/ateasetravel.tours)
 
 - 🌱 I’m currently learning **React and node.js**
 
