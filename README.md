@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Learning something new**
 
-- 👨‍💻 All of my projects are available at [Repos](https://github.com/Babi21/Cafe-System)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/Babi21/Cafe-System)
 
 - 💬 Ask me about **Anything I'm an open book**
 
